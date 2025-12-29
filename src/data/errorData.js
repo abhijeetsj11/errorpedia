@@ -1392,14 +1392,7 @@ export const errorData = [
     fix: "Clear cache or redeploy.",
     level: "Beginner"
   },
-  {
-    id: 175,
-    category: "Deployment",
-    title: "Build succeeds but site shows 404",
-    description: "Incorrect routing or output folder.",
-    fix: "Check routing and build directory.",
-    level: "Beginner"
-  }
+  
 
 ];
 
