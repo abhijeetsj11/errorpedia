@@ -16,7 +16,7 @@ const Home = () => {
     <div className="page-container home-page">
       <div className="hero-section">
         <h1>Learn From Common Coding Errors</h1>
-        <p className="hero-subtitle">Understand, diagnose, and resolve programming issues faster with our curated knowledge base</p>
+        <p className="hero-subtitle">Learn, understand, and fix coding errors with clear explanations and practical solutions.</p>
         
         <div className="search-container">
           <svg className="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
